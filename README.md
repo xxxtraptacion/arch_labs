@@ -40,4 +40,9 @@ moder -- deleteComment
 writer -- write
 writer -- edit
 writer -- offerNews
+
 @enduml
+
+![lab1_diagrams](https://user-images.githubusercontent.com/46898265/189305356-8558235c-1834-4a76-a5b3-87a6c3d5d06d.svg)
+
+
